@@ -37,7 +37,7 @@ const TLsection = () => {
           </div>
 
           <div className='tl__border' data-aos='flip-left' >
-            <div className='tl__font'>Business Development: Better grasp of vendor's offerings vs market's needs. </div>
+            <div className='tl__font'>Business Development: Better grasp of vendor's upcoming offerings vs market's needs. </div>
             <img className='tl__img' src="https://customerthink.com/wp-content/uploads/Align-Your-Brand-with-Customer-Needs.png" alt="" />
           </div>
 
@@ -88,7 +88,7 @@ const TLsection = () => {
           </div>
 
           <div className='tl__border' data-aos='flip-left' >
-            <div className='tl__font'>Business Deveopment: Work with co-pilot team to access collective knowwledge. </div>
+            <div className='tl__font'>Business Deveopment: Work with co-pilot team to access collective knowledge. </div>
             <img className='tl__img' src="https://i0.wp.com/techit-services.com/wp-content/uploads/2024/01/Copilot.jpg" alt="" />
           </div>
 
